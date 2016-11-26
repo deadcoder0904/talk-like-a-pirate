@@ -1,5 +1,4 @@
 function pirate(obj) {
-	console.log(obj);
 	$('#app').html("<hr /><h1 class='b tc f1 night-hotel '>" + obj.translation.pirate + "</h1>");
 }
 
