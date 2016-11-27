@@ -1,7 +1,5 @@
 # talk-like-a-pirate
 
-## License
-
 # What
 
 ![Pirate Talk](http://imgur.com/QP7tthh.png)
@@ -9,6 +7,8 @@
 # Screenshot
 
 ![Pirate Talk](http://imgur.com/PAThruj.png)
+
+## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
 
