@@ -1,5 +1,7 @@
 # talk-like-a-pirate
 
+> :boy: Talk like a Pirate :alien:
+
 # What
 
 ![Pirate Talk](http://imgur.com/QP7tthh.png)
