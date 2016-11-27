@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![Pirate Talk](http://imgur.com/WGLnW1h.png)
+![Pirate Talk](http://imgur.com/PAThruj.png)
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
 
